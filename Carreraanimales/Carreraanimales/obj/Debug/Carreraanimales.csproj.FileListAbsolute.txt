@@ -1,0 +1,9 @@
+c:\users\bruno\documents\visual studio 2017\Projects\Carreraanimales\Carreraanimales\bin\Debug\Carreraanimales.exe.config
+c:\users\bruno\documents\visual studio 2017\Projects\Carreraanimales\Carreraanimales\bin\Debug\Carreraanimales.exe
+c:\users\bruno\documents\visual studio 2017\Projects\Carreraanimales\Carreraanimales\bin\Debug\Carreraanimales.pdb
+c:\users\bruno\documents\visual studio 2017\Projects\Carreraanimales\Carreraanimales\obj\Debug\Carreraanimales.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2017\Projects\Carreraanimales\Carreraanimales\obj\Debug\Carreraanimales.Form1.resources
+c:\users\bruno\documents\visual studio 2017\Projects\Carreraanimales\Carreraanimales\obj\Debug\Carreraanimales.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2017\Projects\Carreraanimales\Carreraanimales\obj\Debug\Carreraanimales.csproj.GenerateResource.Cache
+c:\users\bruno\documents\visual studio 2017\Projects\Carreraanimales\Carreraanimales\obj\Debug\Carreraanimales.exe
+c:\users\bruno\documents\visual studio 2017\Projects\Carreraanimales\Carreraanimales\obj\Debug\Carreraanimales.pdb
