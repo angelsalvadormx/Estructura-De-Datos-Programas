@@ -8,14 +8,24 @@ namespace Agenda
 {
     class Agenda
     {
-        private Contactos[] agenda = new Contactos[15];
+        private Contactos inicio;
         private int pos = 0;
         
-        public void agregar(Contactos newContacto)
+        public void agregar(Contactos nuevo)
         {
-            agenda[pos] = newContacto;
+            if (inicio == null)
+            {
+                inicio = nuevo;
+            }
+            else
+            {
+                Contactos aux = inicio;
+                while (aux.Siguiente != null)
+                    aux = aux.Siguiente;
+                aux.Siguiente = nuevo;
+            }
         }
-     
+     /*
         public void insertar(Contactos insertar, int lugar)
         {
             for (int i = 14; i > lugar; i--)
@@ -24,34 +34,32 @@ namespace Agenda
             }
             agenda[lugar] = insertar;
         }
+
+    */
         public Contactos buscar(long tel)
         {
-            for (int i = 0; i <= pos; i++)
+            Contactos aux = inicio;
+            while(aux != null)
             {
-                if (agenda[i].Telefono == tel)
+                if (aux.Telefono == tel)
                 {
-                    return agenda[i];
+                    return aux;
                 }
+                aux = aux.Siguiente;
             }
             return null;
         }
 
         public bool eliminar(long tel)
         {
-            bool van = false;
-            for (int i = 0; i <= pos; i++)
-            {
-                if (agenda[i].Telefono == tel)
+            Contactos aux = inicio;
+            while (aux.Siguiente != null)
+                if (aux.Siguiente.Telefono == tel)
                 {
-                    for (int j = 0; j < 14; j++)
-                    {
-                        agenda[j] = agenda[j+1];
-                    }
-                    van = true;
+                    aux.Siguiente = aux.Siguiente.Siguiente;
+                    return true;
                 }
-            }
-            
-            return van;
+            return false;
         }    
 
         public string listar()

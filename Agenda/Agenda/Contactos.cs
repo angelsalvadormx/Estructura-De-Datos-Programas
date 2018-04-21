@@ -15,7 +15,12 @@ namespace Agenda
         string _correo;
         long _telefono;
         int _edad;
+        Contactos _siguiente;
 
+        public Contactos Siguiente{
+            get { return _siguiente; }
+            set { _siguiente = value; }
+        }
 
         public string Nombre{
             get { return _nombre; }
@@ -40,6 +45,11 @@ namespace Agenda
         public int Edad {
             get { return _edad; }
             set { _edad = value; }
+        }
+
+        public override string ToString()
+        {
+            return _nombre + _apPaterno + _apMaterno + _correo + _edad + Telefono;
         }
     }
 }

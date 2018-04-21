@@ -43,6 +43,7 @@ namespace Agenda
 
         private void btnEliminar_Click(object sender, EventArgs e)
         {
+            
             if (agenda.eliminar(Convert.ToInt32(txtTelefono.Text)))
             {
                 MessageBox.Show("Contacto eliminado");
@@ -52,6 +53,7 @@ namespace Agenda
                 MessageBox.Show("Contacto no encontrado");
             }
             limpiarTxT();
+            
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)
@@ -109,7 +111,7 @@ namespace Agenda
             NuevoContacto.Correo = txtCorreo.Text;
             NuevoContacto.Edad = Convert.ToInt32(txtEdad.Text);
 
-            agenda.insertar(NuevoContacto,Convert.ToInt32(txtLugar.Text));
+           // agenda.insertar(NuevoContacto,Convert.ToInt32(txtLugar.Text));
 
             limpiarTxT();
         }
