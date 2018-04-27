@@ -1,0 +1,10 @@
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\graficos por tortuga\graficos por tortuga\bin\Debug\graficos por tortuga.exe.config
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\graficos por tortuga\graficos por tortuga\bin\Debug\graficos por tortuga.exe
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\graficos por tortuga\graficos por tortuga\bin\Debug\graficos por tortuga.pdb
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\graficos por tortuga\graficos por tortuga\obj\Debug\graficos por tortuga.csprojResolveAssemblyReference.cache
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\graficos por tortuga\graficos por tortuga\obj\Debug\graficos_por_tortuga.Form1.resources
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\graficos por tortuga\graficos por tortuga\obj\Debug\graficos_por_tortuga.Properties.Resources.resources
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\graficos por tortuga\graficos por tortuga\obj\Debug\graficos por tortuga.csproj.GenerateResource.Cache
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\graficos por tortuga\graficos por tortuga\obj\Debug\graficos por tortuga.csproj.CoreCompileInputs.cache
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\graficos por tortuga\graficos por tortuga\obj\Debug\graficos por tortuga.exe
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\graficos por tortuga\graficos por tortuga\obj\Debug\graficos por tortuga.pdb
