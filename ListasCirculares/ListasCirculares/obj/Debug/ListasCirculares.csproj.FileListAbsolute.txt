@@ -1,0 +1,29 @@
+C:\Users\Bruno\source\repos\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\source\repos\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.Form1.resources
+C:\Users\Bruno\source\repos\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.Properties.Resources.resources
+C:\Users\Bruno\source\repos\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.csproj.GenerateResource.Cache
+C:\Users\Bruno\source\repos\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\ListasCirculares\ListasCirculares\bin\Debug\ListasCirculares.exe.config
+C:\Users\Bruno\source\repos\ListasCirculares\ListasCirculares\bin\Debug\ListasCirculares.exe
+C:\Users\Bruno\source\repos\ListasCirculares\ListasCirculares\bin\Debug\ListasCirculares.pdb
+C:\Users\Bruno\source\repos\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.exe
+C:\Users\Bruno\source\repos\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.pdb
+C:\Users\Bruno\Desktop\ListasCirculares\ListasCirculares\bin\Debug\ListasCirculares.exe.config
+C:\Users\Bruno\Desktop\ListasCirculares\ListasCirculares\bin\Debug\ListasCirculares.exe
+C:\Users\Bruno\Desktop\ListasCirculares\ListasCirculares\bin\Debug\ListasCirculares.pdb
+C:\Users\Bruno\Desktop\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.Form1.resources
+C:\Users\Bruno\Desktop\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.Properties.Resources.resources
+C:\Users\Bruno\Desktop\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.csproj.GenerateResource.Cache
+C:\Users\Bruno\Desktop\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.exe
+C:\Users\Bruno\Desktop\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.pdb
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\bin\Debug\ListasCirculares.exe.config
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\bin\Debug\ListasCirculares.exe
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\bin\Debug\ListasCirculares.pdb
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.csprojResolveAssemblyReference.cache
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.Form1.resources
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.Properties.Resources.resources
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.csproj.GenerateResource.Cache
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.csproj.CoreCompileInputs.cache
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.exe
+C:\Users\Angel Salvador\Documents\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.pdb
